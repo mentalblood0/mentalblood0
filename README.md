@@ -8,7 +8,7 @@ database-oriented:
 
 🐈 [wool](https://github.com/mentalblood0/wool) is a theses storage backed with trove
 
-🔮 [chant](https://github.com/mentalblood0/wool) is a telegram-based collaboration interface backed with wool
+🔮 [chant](https://github.com/mentalblood0/chant) is a telegram-based collaboration interface backed with wool
 
 configuration-oriented:
 
